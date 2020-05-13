@@ -45,6 +45,7 @@ class GameViewController: UIViewController {
     
        imgView1.center.x = positionX[0]
        imgView2.center.x = positionX[1]
+       imgView3.center.x = positionX[2]
     }
     @IBAction func stop() {
         if timer.isValid == true {

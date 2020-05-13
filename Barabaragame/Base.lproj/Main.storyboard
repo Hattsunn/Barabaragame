@@ -127,7 +127,7 @@
                     <connections>
                         <outlet property="imgView1" destination="y4Y-4I-L46" id="9Xi-xU-jKq"/>
                         <outlet property="imgView2" destination="ZXL-Ih-rKr" id="Aox-bx-hcG"/>
-                        <outlet property="imgView3" destination="lWv-KD-dMx" id="AtP-cU-Pkb"/>
+                        <outlet property="imgView3" destination="lWv-KD-dMx" id="rU2-O2-Jm2"/>
                         <outlet property="resultLabel" destination="TvA-Jy-DyK" id="lNy-w6-WfG"/>
                     </connections>
                 </viewController>
